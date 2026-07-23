@@ -4,11 +4,9 @@
 
 <br/>
 
-<div align="center">
-    <a href="https://weptune.dev">
-        <img src="https://raw.githubusercontent.com/Weptune/personalwebsite/main/public/static/ramona.gif" width="380px" style="border-radius: 14px; border: 2px solid #7c3aed; box-shadow: 0 0 30px rgba(168, 85, 247, 0.5);" alt="Ramona Flowers" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Weptune/personalwebsite/main/public/static/ramona.gif" width="380" alt="Ramona Flowers" />
+</p>
 
 <br/>
 
