@@ -27,7 +27,7 @@
 
 ---
 
-## 🌌 weeping in orbit: weptune.dev
+## about me
 
 hi ^-^ im abhinav. im a 21-year-old CS student. I have way too many interests and way too little time to dedicate to them </3
 
@@ -170,78 +170,6 @@ hi ^-^ im abhinav. im a 21-year-old CS student. I have way too many interests an
 
 ---
 
-<h2 align="center" style="color: #c4b5fd;">⚡ <code>tech-stack & toolkit</code></h2>
-
-<div align="center">
-
-### **Languages & Core**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-### **Frameworks & Databases**
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### **Infrastructure & Deployment**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-<h2 align="center" style="color: #c4b5fd;">📊 <code>github-telemetry</code></h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Weptune&show_icons=true&theme=synthwave&title_color=c4b5fd&text_color=e9d5ff&bg_color=090511&border_color=581c87&icon_color=a855f7" width="49%" alt="Weptune's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weptune&layout=compact&theme=synthwave&title_color=c4b5fd&text_color=e9d5ff&bg_color=090511&border_color=581c87&hide=html" width="47%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Weptune&theme=synthwave&background=090511&border=581C87&stroke=7C3AED&ring=A855F7&fire=C4B5FD&currStreakLabel=C4B5FD" width="97%" alt="Streak Stats" />
-
-</div>
-
----
-
-<h2 align="center" style="color: #c4b5fd;">🕯️ <code>favorite-fragments</code></h2>
-
-> *"Movie actors puzzled during combat / Leading man just stutters when he talks / There were teardrops on his contract / But there was chicken to defrost / Hiding in the pedals of amnesia / Like a flower not in bloom / You can act like you were swindled / But I'll remind you of the truth"*  
-> — **Silver Jews** (*Punks in the Beerlight*)
-
----
-
-<h2 align="center" style="color: #c4b5fd;">🌐 <code>connect</code></h2>
-
-<div align="center">
-
-<a href="https://weptune.dev">
-  <img src="https://img.shields.io/badge/Website-weptune.dev-7c3aed?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
-</a>
-<a href="https://github.com/Weptune">
-  <img src="https://img.shields.io/badge/GitHub-Weptune-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://youtube.com/@Weptune">
-  <img src="https://img.shields.io/badge/YouTube-Weptune-6b21a8?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://instagram.com/abhinavityy/">
-  <img src="https://img.shields.io/badge/Instagram-@abhinavityy-7e22ce?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://discord.gg/dcjKwMvs">
-  <img src="https://img.shields.io/badge/Discord-Join_Server-9333ea?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
 
 <br/><br/>
 
