@@ -29,9 +29,9 @@
 
 ## 🌌 weeping in orbit: weptune.dev
 
-hi ^-^ im abhinav. im a 21-year-old CS student in India building games, cryptographic systems, hardware hacks, and interactive web experiences.
+hi ^-^ im abhinav. im a 21-year-old CS student. I have way too many interests and way too little time to dedicate to them </3
 
-[weptune.dev](https://weptune.dev) is my cyber-gothic personal website—housing technical write-ups, math essays, album & movie reviews, an interactive guestbook, and an automated newsletter broadcast system built with Astro, TypeScript, Supabase, Cloudflare, and Resend.
+[weptune.dev](https://weptune.dev) is my personal digital repository where you can find basically everything about me, checak it out :D
 
 | Thoughts & Essays Engine | LaTeX Math Write-ups |
 |--------------------------|----------------------|
