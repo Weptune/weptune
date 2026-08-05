@@ -31,7 +31,7 @@
 
 hi ^-^ im abhinav. im a 21-year-old CS student. I have way too many interests and way too little time to dedicate to them </3
 
-[weptune.dev](https://weptune.dev) is my personal digital repository where you can find basically everything about me, checak it out :D
+[weptune.dev](https://weptune.dev) is my personal digital repository where you can find basically everything about me, check it out :D
 
 | Thoughts & Essays Engine | LaTeX Math Write-ups |
 |--------------------------|----------------------|
