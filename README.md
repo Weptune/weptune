@@ -40,7 +40,7 @@ hi ^-^ im abhinav. im a 21-year-old CS student. I have way too many interests an
 ---
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e1065,100:581c87&height=50&text=%F0%9F%9A%80%20P%20R%20O%20J%20E%20C%20T%20S&fontSize=24&fontColor=e9d5ff" width="100%" alt="Projects Header" />
+    Projects
 </div>
 
 <br/>
